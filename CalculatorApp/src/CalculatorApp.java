@@ -36,6 +36,7 @@ public class CalculatorApp {
 		}
 		
 		if (choice.equalsIgnoreCase("n")) {
+			System.out.println("Goodbye");
 			
 		}
 	}
